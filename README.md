@@ -11,6 +11,7 @@ Para quem me conhecia em https://github.com/adrianacerdeira. Fui trancada fora d
 - Facebook: https://www.facebook.com/ComputerBuddyBR/
 - Twitter: https://twitter.com/computerbuddybr
 - Meu CV: http://cv.adrianacerdeira.info/
+- Linkedin: https://br.linkedin.com/in/adrianacerdeira
 
 <!---
 computerbuddybr/computerbuddybr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
