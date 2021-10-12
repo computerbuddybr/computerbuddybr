@@ -2,7 +2,7 @@ Professora particular de informática e Web Dev online na Udemy.
 
 Cursando Engenharia e Ciência de Computação para me aprimorar.
 
-Para quem me conhecia em https://github.com/adrianacerdeira. Fui trancada fora dessa conta pelo 2FA. Perdi meu App autenticador e por algum motivo os métodos de recuperação não funcionaram. Então criei está nova conta para colocar meus repositórios. Por isso há repositórios em comum com aquela conta, mas estes são os atualizados. Aquela conta não é atualizada desde 08/08/21.
+Para quem me conhecia em https://github.com/adrianacerdeira sou eu mesma, que mudei pra cá. Você vai encontrar os mesmos repositórios com os arquivos para meus cursos de desenvolvimento além de repositórios com as soluções para os trabalhos de faculdade que eu tiver.
 
 - Meu site: http://adrianacerdeira.info
 
