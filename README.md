@@ -12,6 +12,7 @@ Para quem me conhecia em https://github.com/adrianacerdeira sou eu mesma, que mu
 - Twitter: https://twitter.com/computerbuddybr
 - Meu CV: http://cv.adrianacerdeira.info/
 - Linkedin: https://br.linkedin.com/in/adrianacerdeira
+- Canal do YouTube: https://www.youtube.com/channel/UCZlfNVcgEXy-KzlTWEBP1kw?sub_confirmation=1
 
 <!---
 computerbuddybr/computerbuddybr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
