@@ -1,6 +1,6 @@
 Professora particular de informática e Web Dev online na Udemy. 
 
-Cursando Engenharia e Ciência de Computação para me aprimorar.
+Cursando Engenharia e Ciência de Computação para me aprimorar. No momento estou no último ano de Ciência e no terceiro de Engenharia. E com a experiência da faculdade criei um curso de [Lógica de Programação](http://adrianacerdeira.info/promos/logica-promo.php) e um [Curso de Básico de C](http://adrianacerdeira.info/promos/c-promo.php)  para ajudar os colegas.
 
 Para quem me conhecia em https://github.com/adrianacerdeira sou eu mesma, que mudei pra cá. Você vai encontrar os mesmos repositórios com os arquivos para meus cursos de desenvolvimento além de repositórios com as soluções para os trabalhos de faculdade que eu tiver.
 
