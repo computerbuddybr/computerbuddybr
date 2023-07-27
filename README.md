@@ -8,7 +8,7 @@ Para quem me conhecia em https://github.com/adrianacerdeira sou eu mesma, que mu
 
 - Meu perfil com cursos da Udemy: https://www.udemy.com/user/adrianacerdeira/
 - Meus cursos já com cupom de desconto: http://adrianacerdeira.info/index.php?page=online-courses
-- Meu Newsletter: https://www.subscribepage.com/Cbbrnewsletter
+- Meu Newsletter: subscribepage.io/Cbbrnewsletter
 - Facebook: https://www.facebook.com/ComputerBuddyBR/
 - Twitter: https://twitter.com/computerbuddybr
 - Meu CV: http://cv.adrianacerdeira.info/
