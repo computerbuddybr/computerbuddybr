@@ -15,11 +15,11 @@ Para quem me conhecia em https://github.com/adrianacerdeira sou eu mesma, que mu
 - Linkedin: https://br.linkedin.com/in/adrianacerdeira
 - Canal do YouTube: https://www.youtube.com/channel/UCZlfNVcgEXy-KzlTWEBP1kw?sub_confirmation=1
 
-![Adriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=computerbuddybr&show_icons=true)
+
 <div>
    <a href="https://github.com/computerbuddybr">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=computerbuddybr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=computerbuddybr&layout=compact&langs_count=6&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=computerbuddybr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=computerbuddybr&layout=compact&langs_count=6&theme=cobalt"/>
 </div>
 <!---
 computerbuddybr/computerbuddybr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
